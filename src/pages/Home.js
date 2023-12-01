@@ -2,7 +2,6 @@ import React from "react";
 import BlogPostOne from "../components/blog_posts/post1";
 import BlogPostTwo from "../components/blog_posts/post2";
 import BlogPostThree from "../components/blog_posts/post3";
-import Header from "../components/Header";
 
 function Home() {
   return (
