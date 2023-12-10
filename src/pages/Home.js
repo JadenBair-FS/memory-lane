@@ -3,6 +3,7 @@ import BlogPostOne from "../components/blog_posts/post1";
 import BlogPostTwo from "../components/blog_posts/post2";
 import BlogPostThree from "../components/blog_posts/post3";
 import BlogPostFour from "../components/blog_posts/post4";
+import BlogPostFive from "../components/blog_posts/post5";
 
 function Home() {
   return (
@@ -15,6 +16,7 @@ function Home() {
         <BlogPostTwo />
         <BlogPostThree />
         <BlogPostFour />
+        <BlogPostFive />
       </div>
     </div>
   );
